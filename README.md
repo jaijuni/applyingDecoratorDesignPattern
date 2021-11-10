@@ -10,3 +10,5 @@
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
+## Project resume
+This project is a project to creates a api to publish a post in different social medias, for this, I will use a decorator design pattern to aplly my knowledge in a project
